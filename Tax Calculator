@@ -2,7 +2,7 @@ from colorama import init, Fore, Style, Back
 
 init(autoreset=True)
 
-MYCOLOR = '\033[38;2;173;216;230m'
+MYCOLOR = '\033[38;2;173;216;230m'    #Custom Color
 RESET = Style.RESET_ALL
 
 print(" ")
